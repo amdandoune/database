@@ -5,6 +5,7 @@
 			"name": "Brocolli - 1 Kg",
 			"price": 120,
 			"amount": 200,
+			"count": 0,
 			"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/broccoli.jpg",
 			"category": "vegetables"
 		},
@@ -13,6 +14,7 @@
 			"name": "Cauliflower - 1 Kg",
 			"price": 60,
 			"amount": 600,
+			"count": 0,
 			"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cauliflower.jpg",
 			"category": "vegetables"
 		},
@@ -21,6 +23,7 @@
 			"name": "Cucumber - 1 Kg",
 			"price": 48,
 			"amount": 0,
+			"count": 0,
 			"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cucumber.jpg",
 			"category": "vegetables"
 		},
@@ -29,16 +32,7 @@
 			"name": "Beetroot - 1 Kg",
 			"price": 32,
 			"amount": 400,
-			"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beetroot.jpg",
-			"category": "vegetables"
-		}
-	],
-	"cart": [
-		{
-			"id": 4,
-			"name": "Beetroot - 1 Kg",
-			"price": 32,
-			"count": 10,
+			"count": 0,
 			"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beetroot.jpg",
 			"category": "vegetables"
 		}
