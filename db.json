@@ -20,7 +20,7 @@
 			"id": 3,
 			"name": "Cucumber - 1 Kg",
 			"price": 48,
-			"amount": 400,
+			"amount": 0,
 			"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cucumber.jpg",
 			"category": "vegetables"
 		},
@@ -28,9 +28,19 @@
 			"id": 4,
 			"name": "Beetroot - 1 Kg",
 			"price": 32,
-			"amount": 0,
+			"amount": 400,
 			"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beetroot.jpg",
 			"category": "vegetables"
 		}
-	]
+	],
+	"cart": [
+		{
+			"id": 4,
+			"name": "Beetroot - 1 Kg",
+			"price": 32,
+			"count": 10,
+			"image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beetroot.jpg",
+			"category": "vegetables"
+		}
+	],
 }
